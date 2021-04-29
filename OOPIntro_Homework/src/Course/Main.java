@@ -19,5 +19,8 @@ public class Main {
        courseManager.registerCourse(course1);
        courseManager.registerCourse(course2);
 
+       courseManager.progressToCourse(course1);
+       courseManager.progressToCourse(course1);
+
    }
 }
