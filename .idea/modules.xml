@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CampIntro/CampIntro.iml" filepath="$PROJECT_DIR$/CampIntro/CampIntro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance2/Inheritance2.iml" filepath="$PROJECT_DIR$/Inheritance2/Inheritance2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaReactCamp.iml" filepath="$PROJECT_DIR$/.idea/JavaReactCamp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPIntro/OOPIntro.iml" filepath="$PROJECT_DIR$/OOPIntro/OOPIntro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPIntro_Homework/OOPIntro_Homework.iml" filepath="$PROJECT_DIR$/OOPIntro_Homework/OOPIntro_Homework.iml" />
+    </modules>
+  </component>
+</project>
