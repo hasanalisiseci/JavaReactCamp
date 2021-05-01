@@ -8,7 +8,7 @@
 
 ### Hazırladığım ödevde;
 
-- **Course** ve **Instructor** class'ları özellik nesnelerinin class'larıdır.
-- Bunlara ait class, constructorlar bu class'ların içindedir.
-- Oluşturalan yapılar **Main** class'ı içinde diziye eklenmiştir.
-- **CourseManager** iş sınıfı olarak tanımlanmıştır. Metotlar içinde yer almaktadır.
+- **User**, **Instructor** ve **Student** class'ları özellik nesnelerinin class'larıdır.
+- Bunlara ait class, constructorlar ve get/set metotları bu class'ların içindedir.
+- **UserManager** base class alınarak **InstructorManager** ve **StudentManager** class'ları oluşturulmuştur. 
+- **Main** içinde oluşturulan class'ların nesneleri oluşturulup **Manager** classlarındaki metotolar ile beraber kullanılmıştır.
