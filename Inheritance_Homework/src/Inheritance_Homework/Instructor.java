@@ -2,8 +2,8 @@ package Inheritance_Homework;
 
 public class Instructor extends User {
 
-    String[] coursesOffered;
-    String[] certificates;
+    private String[] coursesOffered;
+    private String[] certificates;
 
     public Instructor(int id, String fullName, String mailAddress, String[] coursesOffered, String[] certificates) {
         super(id, fullName, mailAddress);

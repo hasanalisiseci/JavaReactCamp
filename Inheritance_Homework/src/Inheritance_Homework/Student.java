@@ -1,8 +1,8 @@
 package Inheritance_Homework;
 
 public class Student extends User{
-    String[] registeredCourses;
-    int registerCoursesCount;
+    private String[] registeredCourses;
+    private int registerCoursesCount;
 
     public Student(int id, String fullName, String mailAddress, String[] registeredCourses) {
         super(id, fullName, mailAddress);

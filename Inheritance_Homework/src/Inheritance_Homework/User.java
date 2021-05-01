@@ -1,9 +1,9 @@
 package Inheritance_Homework;
 
 public class User {
-    int id;
-    String fullName;
-    String mailAddress;
+    private int id;
+    private String fullName;
+    private String mailAddress;
 
     public User(int id, String fullName, String mailAddress) {
         this.id = id;
