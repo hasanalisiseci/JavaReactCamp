@@ -3,12 +3,15 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CampIntro/CampIntro.iml" filepath="$PROJECT_DIR$/CampIntro/CampIntro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework2/Homework2.iml" filepath="$PROJECT_DIR$/Homework2/Homework2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework3/Homework3.iml" filepath="$PROJECT_DIR$/Homework3/Homework3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework4CoffeeShop/Homework4CoffeeShop.iml" filepath="$PROJECT_DIR$/Homework4CoffeeShop/Homework4CoffeeShop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework4GameMarket/Homework4GameMarket.iml" filepath="$PROJECT_DIR$/Homework4GameMarket/Homework4GameMarket.iml" />
       <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/Inheritance2/Inheritance2.iml" filepath="$PROJECT_DIR$/Inheritance2/Inheritance2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Inheritance_Homework/Inheritance_Homework.iml" filepath="$PROJECT_DIR$/Inheritance_Homework/Inheritance_Homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interfaces/Interfaces.iml" filepath="$PROJECT_DIR$/Interfaces/Interfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaReactCamp.iml" filepath="$PROJECT_DIR$/.idea/JavaReactCamp.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOPIntro/OOPIntro.iml" filepath="$PROJECT_DIR$/OOPIntro/OOPIntro.iml" />
-      <module fileurl="file://$PROJECT_DIR$/OOPIntro_Homework/OOPIntro_Homework.iml" filepath="$PROJECT_DIR$/OOPIntro_Homework/OOPIntro_Homework.iml" />
     </modules>
   </component>
 </project>
