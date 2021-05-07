@@ -1,6 +1,6 @@
 # 4. Gün 2. Ödevi
 
-## Oyun Backend Sistemi.
+## Oyun Backend Yönetim Sistemi
 
 - Oyuncuların sisteme kayıt olabileceği, bilgilerini güncelleyebileceği, kayıtlarını silebileceği bir
   ortamı simule ediniz. Müşteri bilgilerinin doğruluğunu e-devlet sistemlerini kullanarak doğrulama
