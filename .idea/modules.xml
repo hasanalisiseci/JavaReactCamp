@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/Interfaces/Interfaces.iml" filepath="$PROJECT_DIR$/Interfaces/Interfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaReactCamp.iml" filepath="$PROJECT_DIR$/.idea/JavaReactCamp.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOPIntro/OOPIntro.iml" filepath="$PROJECT_DIR$/OOPIntro/OOPIntro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nLayeredDemo/nLayeredDemo.iml" filepath="$PROJECT_DIR$/nLayeredDemo/nLayeredDemo.iml" />
     </modules>
   </component>
 </project>
